@@ -7,7 +7,6 @@ https://github.com/angular/quickstart
 
 # Install dependencies
 - `npm install`
-- `npm run typings install`
 
 # Build and start application
 - `npm start`
